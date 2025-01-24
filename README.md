@@ -26,8 +26,8 @@ The package includes:
 ## Submission Guidelines
 
 - **Deadline:** January 31st, 2025  
-- **Submit to:** DIGGS_Challenge@geosetta.org  
-- **Winners Announced:** Geo-Congress 2026
+- **Submit to:** diggs_challenge@googlegroups.com  
+- **Winners Announced:** Geo-Congress/Geo Frontiers 2025
 
 ### Required Submission Items:
 
