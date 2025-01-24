@@ -26,7 +26,7 @@ The package includes:
 ## Submission Guidelines
 
 - **Deadline:** January 31st, 2025  
-- **Submit to:** diggs_challenge@googlegroups.com  
+- **Submit to:** diggs_challenge2025@googlegroups.com  
 - **Winners Announced:** Geo-Congress/Geo Frontiers 2025
 
 ### Required Submission Items:
@@ -74,11 +74,6 @@ Get involved with the DIGGS community:
 - [AI Assistant](https://chatgpt.com/g/g-KeOVgCaSe-geosetta-s-diggs-expert)
 - [GitHub Repository](https://github.com/DIGGSml/DIGGS)
 
----
-
-## Logo
-
-![Geo Institute Logo](static/homepage/geo-institute.png)
 
 ---
 
