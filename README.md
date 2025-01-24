@@ -70,7 +70,7 @@ Get involved with the DIGGS community:
 
 ### Helpful Links:
 
-- [DIGGS Documentation](https://diggsml.github.io)
+- [DIGGS Documentation](https://diggsml.org/docs/DIGGSOverview.pdf)
 - [AI Assistant](https://chatgpt.com/g/g-KeOVgCaSe-geosetta-s-diggs-expert)
 - [GitHub Repository](https://github.com/DIGGSml/DIGGS)
 
