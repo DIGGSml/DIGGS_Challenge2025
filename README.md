@@ -22,7 +22,7 @@ This event is not a competition. Instead, it’s an opportunity to learn, build,
 ## How to Participate
 
 1. **Download the Challenge Package**  
-   [**Download Challenge Package**](https://github.com/DIGGSml/DIGGS_Challenge2025/raw/main/DIGGS_Challenge_2025.zip)  
+   [**Download Challenge Package**](https://github.com/DIGGSml/DIGGS_Challenge2025/raw/main/DIGGS_Code_Jam_2025.zip)  
    The package includes:
    - Example DIGGS files
    - Detailed instructions
